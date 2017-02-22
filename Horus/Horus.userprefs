@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\playSound.cs">
+    <Files>
+      <File FileName="Assets\Dialogue\HorusText.txt" Line="1" Column="1" />
+      <File FileName="Assets\RPGTALK\Demo\Talks\DemosText.txt" Line="1" Column="1" />
+      <File FileName="Assets\RPGTALK\ReadMe.txt" Line="1" Column="1" />
+      <File FileName="Assets\RPGTALK\RPGTalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TalkBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovementControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\eyeBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playSound.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4a823e6fb7053ed4da304349b5d42fe8
+timeCreated: 1487350634
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ARABIAN KNIGHT
+  fontNames:
+  - ARABIAN KNIGHT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

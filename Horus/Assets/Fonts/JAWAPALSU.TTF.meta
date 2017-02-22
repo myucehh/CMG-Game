@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ec6fc15126e9e7498827005817499dd
+timeCreated: 1484624791
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jawa Palsu
+  fontNames:
+  - Jawa Palsu
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
